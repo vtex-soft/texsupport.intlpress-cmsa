@@ -1,4 +1,4 @@
-# LaTeX author support for the International Press book series *Harvard CMSA Series in Mathematics* (*CMSA*)
+# International Press book series CMSA author support
 
 ## Table of Contents
 
